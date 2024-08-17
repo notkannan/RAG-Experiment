@@ -1,1 +1,1 @@
-# RAG Experiment - Headstarter
+# RAG Experiment
